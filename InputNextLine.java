@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class InputNextLine {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("ป้อนชื่อของคุณ = ");
+        String name = sc.nextLine(); //อ่านข้อความจากแป้นพิมพ์ทั้งบรรทัด
+        System.out.println("ชื่อของคุณ คือ = "+name); //แสดงข่อความที่พิมพ์
+
+    }
+}

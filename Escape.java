@@ -1,0 +1,9 @@
+public class Escape {
+    public static void main(String[] args) {
+        /*
+            \n => ขึนบรรทัดใหม่
+            \t => tab
+        */
+        System.out.println("Hello\tWorld\nHello\tThailand");
+    }
+}
