@@ -14,7 +14,7 @@ Project นี้ใช้เป็น Guideline ผู้เริ่มต้�
       * C:\Program Files (x86)\Common Files\Oracle\Java\javapath
 4. เช็คดูว่าเครื่องเรามี Java จริงหรือยัง
     * เปิด Command Prompt
-    * java -version
+    * พิมพ์ java -version แล้ว Enter
     * ถ้าขึ้น Version แปลว่าพร้อมใช้งานแล้ว
 ## Data Type in Java
 1. Primitive Data Type
