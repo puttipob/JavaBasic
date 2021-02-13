@@ -1,4 +1,4 @@
-# **Javafandamental**
+# **JavaFandamental**
 Project นี้ใช้เป็น Guideline ผู้เริ่มต้นศึกษา Java และ ทบทวนความจำ (ความจำตัวเราด้วยฮ่า)
 ## การติดตั้ง
 1. ทำการติดตั้ง JDK ที่ Link : [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
